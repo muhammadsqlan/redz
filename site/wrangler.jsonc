@@ -1,0 +1,20 @@
+{
+  "name": "redz",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-01",
+  "account_id": "de4f4be115bc800066e5aa851192f03a",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": true,
+    "html_handling": "none",
+    "not_found_handling": "none"
+  },
+  "routes": [
+    {
+      "pattern": "muhammadsqlan.com/redz*",
+      "zone_name": "muhammadsqlan.com"
+    }
+  ]
+}
