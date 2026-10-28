@@ -1,0 +1,24 @@
+{
+  "name": "ReDZ",
+  "version": "0.3.2",
+  "build": 13,
+  "platform": "macOS",
+  "minimumOS": "14.0",
+  "architecture": "arm64",
+  "notarized": true,
+  "download": "https://muhammadsqlan.com/redz/download",
+  "assets": [
+    {
+      "name": "ReDZ-0.3.2-arm64.dmg",
+      "bytes": 466175612,
+      "sha256": "7b2601d5d31424828120f7df3950ea926388d3994fdb943a4103a8abc2e1b1de",
+      "url": "https://github.com/muhammadsqlan/redz/releases/download/v0.3.2/ReDZ-0.3.2-arm64.dmg"
+    },
+    {
+      "name": "ReDZ-0.3.2-dependency-sources.tar.gz",
+      "bytes": 221778290,
+      "sha256": "760ef1e54833eeac026cd9047695a40b06d964325eabefb9f9b65ed1f4397bb0",
+      "url": "https://github.com/muhammadsqlan/redz/releases/download/v0.3.2/ReDZ-0.3.2-dependency-sources.tar.gz"
+    }
+  ]
+}
